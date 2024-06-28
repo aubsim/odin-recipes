@@ -9,7 +9,6 @@
 #image-pizza {
     width: 500px;
     height: auto;
-    align-self: center;
 }
 
 .image-desc {
@@ -39,4 +38,6 @@ h3 {
     font-size: 28px;
 }
 
-
+.steps-pizza {
+   line-height: 1.2; 
+}
