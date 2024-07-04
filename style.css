@@ -26,7 +26,6 @@ h1 {
     text-align: center;
     font-size: 44px;
     background-color:hsl(40, 57%, 50%)
-
 }
 
 h2 {
@@ -38,6 +37,11 @@ h3 {
 }
 
 /* Specific code main page*/
+
+#main_title {
+    padding: 20px;
+    border: 1px solid black;
+}
 
 .link_receipe {
     display:block;
